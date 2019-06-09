@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     提供一个或多个含有纬度/经度对航点。如果你提供一个
+     航点，Xcode将模拟的具体位置。如果你提供了多个航点，
+     Xcode将模拟路径访问每个航路点
+     -->
+
+
+<!--    巢穴  1348 11  -->
+<!--<wpt lon="113.9235" lat="22.6512">-->
+<!--<wpt lon="113.9248" lat="22.6499">-->
+<!--<wpt lon="113.9254" lat="22.6494">-->
+<!--<wpt lon="113.9258" lat="22.6472">-->
+<!--<wpt lon="113.9256" lat="22.6463">-->
+<!--<wpt lon="113.9252" lat="22.6443">-->
+<!--<wpt lon="113.9263" lat="22.6433">-->
+<!--<wpt lon="113.9278" lat="22.6436">-->
+<!--<wpt lon="113.9290" lat="22.6448">-->
+<!--<wpt lon="113.9325" lat="22.6431">-->
+<!--<wpt lon="113.9347" lat="22.6415">-->
+<!--<wpt lon="113.9351" lat="22.6395">-->
+<!--<wpt lon="113.9348" lat="22.6362">-->
+<!--<wpt lon="113.9353" lat="22.6351">-->
+<!--<wpt lon="113.9366" lat="22.6340">-->
+<!--<wpt lon="113.9385" lat="22.6335">-->
+<!--<wpt lon="113.9394" lat="22.6346">-->
+<!--<wpt lon="113.9413" lat="22.6380">-->
+<!--<wpt lon="113.9592" lat="22.6338">-->
+<!---->
+
+<!--<wpt lon="113.9821" lat="22.5222">-->
+<!--<wpt lon="113.9785" lat="22.5242">-->
+<!--<wpt lon="113.9763" lat="22.5210">-->
+
+
+<!--海边-->
+<wpt lon="113.98147" lat="22.5242">
+<!--<wpt lon="113.9810" lat="22.5237">-->
+<!--巢穴-->
+<!--<wpt lon="113.9813" lat="22.5238">-->
+<!--<wpt lon="113.9826" lat="22.5238">-->
+<!--<wpt lon="113.9836" lat="22.5240">-->
+<!--<wpt lon="113.9844" lat="22.5243">-->
+<!--<wpt lon="113.9863" lat="22.5245">-->
+<!--<wpt lon="113.9871" lat="22.5238">-->
+<!--<wpt lon="113.9880" lat="22.5252">-->
+<!--<wpt lon="113.9871" lat="22.5292">-->
+<!--<wpt lon="113.9846" lat="22.5289">-->
+<!--<wpt lon="113.98335" lat="22.5290">-->
+<!--<wpt lon="113.9774" lat="22.5266">-->
+<!--<wpt lon="113.9774" lat="22.5289">-->
+<!--<wpt lon="113.9758" lat="22.5293">-->
+<!--<wpt lon="113.9743" lat="22.5299">-->
+
+
+<!--    香玉   -->
+<!--<wpt lon="113.9157" lat="22.6537">-->
+<!--<wpt lon="113.92316" lat="22.6529">-->
+<!--<wpt lon="113.9217" lat="22.6490">-->
+<!--<wpt lon="113.9181" lat="22.6498">-->
+<!--<wpt lon="113.9180" lat="22.6537">-->
+<!--<wpt lon="113.9147" lat="22.6507">-->
+<!--<wpt lon="113.9124" lat="22.6549">-->
+<!--<wpt lon="113.9121" lat="22.6575">-->
+
+
+
+<!--澳门-->
+<!--<wpt lon="113.5454" lat="22.1993">-->
+<!--香港3-->
+<!--<wpt lat="22.4247" lon="114.1099">-->
+
+
+<!--深圳湾-->
+<!--<wpt lon="113.9600" lat="22.5287">-->
+
+
+        <name>Cupertino</name>
+        <!--
+         Optionally provide a time element for each waypoint. Xcode will interpolate movement
+         at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+         a time element, then Xcode will use a fixed rate of speed.
+         可提供每点一次元件。Xcode将插补运动
+         在率基于每个航路点之间经过的时间速度。如果你不提供
+         一个时间单元，然后Xcode会使用固定的速度。
+         
+         Waypoints must be sorted by time in ascending order.
+         航点必须以升序排序时间。
+         -->
+        <time>2019-05-23T09:28:37Z</time>
+    </wpt>
+    
+</gpx>
+
+
+<!--YQLocationTransform *beforeLocation = [[YQLocationTransform alloc] initWithLatitude:22.549522 andLongitude:113.947933];-->
+<!--//百度转化为GPS-->
+<!--YQLocationTransform *afterLocation = [beforeLocation transformFromBDToGPS];-->
+<!--NSLog(@"转化后:%f, %f", afterLocation.latitude, afterLocation.longitude);-->
+<!---->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
